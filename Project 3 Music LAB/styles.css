@@ -1,0 +1,166 @@
+.nav-item {
+  padding: 20px;
+}
+
+.btn {
+  border-radius: 30px;
+  padding: 17px 35px;
+  background: #ca42f2;
+  background: -webkit-linear-gradient(
+    left,
+    #ca42f2 0%,
+    #6a42f2 39%,
+    #4294f2 75%,
+    #42b5f2 100%,
+    #7db9e8 100%
+  );
+  color: linear-gradient(
+    to right,
+    #ca42f2 0%,
+    #6a42f2 39%,
+    #4294f2 75%,
+    #42b5f2 100%,
+    #7db9e8 100%
+  );
+}
+
+.first-section {
+  background-color: #212529;
+}
+
+.text {
+  padding: 4rem 4rem;
+  color: aliceblue;
+  text-align: center;
+}
+
+.heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 60px;
+}
+
+.download {
+  margin-left: 33%;
+}
+
+.btn-download {
+  border-radius: 30px;
+  margin-top: 2px;
+  padding: 17px 35px;
+  background-color: #444444;
+}
+
+.btn-hover {
+  background: #ca42f2;
+  background: -webkit-linear-gradient(
+    left,
+    #ca42f2 0%,
+    #6a42f2 39%,
+    #4294f2 75%,
+    #42b5f2 100%,
+    #7db9e8 100%
+  );
+  color: linear-gradient(
+    to right,
+    #ca42f2 0%,
+    #6a42f2 39%,
+    #4294f2 75%,
+    #42b5f2 100%,
+    #7db9e8 100%
+  );
+}
+
+.screenshot {
+  padding-top: 80px;
+  width: 100%;
+
+  padding: 10% 10%;
+}
+
+.second-section {
+  /* padding-top: 5%; */
+
+  padding-bottom: 10%;
+}
+
+.bullet-points {
+  display: inline-flex;
+  padding-top: 2rem;
+}
+
+.points {
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.third-section {
+  padding-top: 12%;
+  background-color: #f5f7f9;
+  padding-bottom: 10%;
+}
+
+.section-four {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+}
+
+.sec4-p {
+  padding-top: 3%;
+
+  font-size: 18px;
+  text-align: center;
+
+  padding-bottom: 4rem;
+}
+
+h3 {
+  padding-top: 2rem;
+}
+
+.section-five {
+  background-color: #f5f7f9;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+}
+
+.pricing {
+  margin-left: 25%;
+  margin-right: 5%;
+}
+
+.section-seven {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #212529;
+}
+
+.bottom-text {
+  padding-top: 2rem;
+  color: grey;
+  text-align: left;
+}
+
+.bottom-heading {
+  color: white;
+  padding-bottom: 2rem;
+}
+
+.col-lg-6 {
+  padding-top: 2rem;
+}
+
+.bottom-links {
+  color: grey;
+  padding-top: 5px;
+}
+
+hr {
+  color: grey;
+}
+
+.ending {
+  color: grey;
+  text-align: center;
+}
